@@ -6,7 +6,7 @@ The purpose of this project was to create a visually appealing and dynamic page 
 ## Results
 The image below shows the UFO sightings home page. The full dataset is shown here. As seen on the left-hand side of the page, five filters were added to allow users to easier locate the data they are looking for. 
 
-[!home](home.PNG)
+![home](home.PNG)
 
 
 
@@ -14,5 +14,6 @@ The image below shows the UFO sightings home page. The full dataset is shown her
 - Below we see an example of a filtered search
 
 
+![filtered](filtered.PNG)
 
 # Summary
